@@ -1,0 +1,12 @@
+List of parameters
+------------------------------------------
+device_type:4
+device_id:15
+device_longitude:50.14090955257416
+device_latitude:26.316262217766084
+device_elevation:0.0
+device_radius:0.0
+device_hide:0
+device_draw_battery:false
+device_sensor_unit_radius:70.0
+device_script_file_name:sink.csc
